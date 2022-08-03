@@ -6,9 +6,6 @@
 #   My Kart Website Commands   #
 ********************************
 
-----------------------------------------
-````````````````````````````````````````
-
 Download and install WampServer
 https://www.wampserver.com/en/download-wampserver-64bits/
 
@@ -39,7 +36,5 @@ To run My Kart website
 _open browser_
 http://localhost/MyKart/home.php
 
-----------------------------------------
-````````````````````````````````````````
 
 ****************************************************************************************************
